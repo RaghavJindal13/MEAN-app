@@ -1,0 +1,5 @@
+in one cmd 
+C:\Users\ragha\Desktop\SEM_3\MEAN App\db>"C:\Program Files\MongoDB\Server\4.2\bin\mongod.exe" --dbpath "C:\Users\ragha\Desktop\SEM_3\MEAN App"
+in other cmd 
+ C:\Users\ragha\Desktop\SEM_3\MEAN App\contactlist>node app.js
+in vs code open contact list as folder
